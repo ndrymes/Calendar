@@ -67,7 +67,7 @@ docker-compose up
 
 # Project Structure
 
-![file structure](https://i.ibb.co/1zYZYVR/Screenshot-2022-07-31-at-20-57-56.png)
+![file structure](https://ibb.co/ph626D4)
 
 # Libraries Used
 
@@ -91,3 +91,4 @@ I had a lot of fun building this. There are some improvements I can make:
 ![End result](docs/result.png)
 
 Thank you 👍
+
